@@ -24,3 +24,9 @@ hs_err_pid*
 /build.xml
 /build/
 /dist/
+/target/
+
+#Eclipse stuff
+.classpath
+.project
+.settings/
